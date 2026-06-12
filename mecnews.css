@@ -50,8 +50,8 @@ body h1 p {
 }
 
 .newsp video{
-    width: 426px;
-    height: 240px;
+    width: 639px;
+    height: 360px;
     pointer-events: none;
     display: block;
     margin: auto;
